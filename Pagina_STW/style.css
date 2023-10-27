@@ -1,0 +1,86 @@
+
+header {
+  display: flex;
+  align-items: center;
+  padding-bottom: 15px;
+}
+
+.conteudo_header {
+  margin: 0 auto;
+}
+
+
+
+* {
+  font-family: 'Open Sans', sans-serif; 
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin: 0 auto;
+  width: fit-content;
+  padding: 12px 24px;
+  border: 2px solid rgb(0, 234, 255) ;
+  border-radius: 10px;
+}
+
+.formField {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.ingredient {
+  display: flex;
+  gap: 8px;
+}
+
+#ingredients {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.ingredientsButtons {
+  display: flex;
+  gap: 4px;
+}
+
+h1,h2 {
+  font-weight: bold;
+  text-align: center;
+  padding-top: 15px;
+}
+
+#recipesList {
+  margin: auto;
+  border: 2px solid rgb(0, 234, 255) ;
+  border-radius: 10px;
+  text-align: center;
+  width: 35%;
+  list-style: none;
+  padding-bottom: 30px;
+}
+
+
+button{
+  border-radius: 10px;
+  transition: transform 0.5s;
+}
+
+button:hover{
+  transform: scale(1.05);
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center; 
+
+}
+
+footer img {
+  display: inline-block; 
+}

@@ -11,14 +11,14 @@ No sistema web, adicionaria campo de edição e exclusão e integraria com o bac
 - No sistema gerenciador de banco de dados, organizaria da seguinte maneira:
 
 ingrediente
-	id_ingrediente
-	nome_ingrediente
+	- id_ingrediente
+	- nome_ingrediente
 
 quantidade_ingrediente (tabela intermediária; liga muitos para muitos)
-	id_receita
-	id_ingrediente
-	quantidade
+	- id_receita
+	- id_ingrediente
+	- quantidade
 
 receita
-	id_receita
-	nome_receita
+	- id_receita
+	- nome_receita

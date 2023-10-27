@@ -6,7 +6,7 @@
 No sistema Java, criaria telas com o uso do JFrame, por exemplo, e integraria os dados a um sistema gerenciador de banco de dados.
 No sistema web, adicionaria campo de edição e exclusão e integraria com o backend e mysql - como solicitado.
 
--Gostaria de concluir que tenho pouca experiência, porém vontade e capacidade de me especializar nas necessidades técnicas necessárias.
+- Gostaria de concluir que tenho pouca experiência, porém vontade e capacidade de me especializar nas necessidades técnicas necessárias.
 
 - No sistema gerenciador de banco de dados, organizaria da seguinte maneira:
 
